@@ -9,5 +9,5 @@ export default defineConfig({
       localsConvention: "camelCase",
     },
   },
-  base: './', // Set the base path for deployment
+  base: 'https://portfol-ze41.onrender.com/', // Set the base path for deployment
 });
