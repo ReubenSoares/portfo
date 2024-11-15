@@ -1,0 +1,30 @@
+[
+    {
+      "title": "Research Paper Summarizer",
+      "imageSrc": "projects/project.png",
+      "description": "Aims to offer an innovative solution by creating a Research Paper Summarizer",
+
+      
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "MULTILINGUAL TRANSLATOR",
+      "imageSrc": "projects/project.png",
+      "description": ". This project aims to create a user-friendly interface that facilitates seamless translation between multiple languages",
+
+
+      "skills": ["HTML", "CSS", "PYTHON", "JS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "RC CAR",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the details of car in different conditions .",
+      "skills": ["matlab", "Autocad"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

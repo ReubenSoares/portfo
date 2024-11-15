@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Pr-Head",
+      "organisation": "ACM-CRCE",
+      "startDate": "June, 2023",
+      "endDate": "June, 2024",
+      "experiences": ["Worked on Pr msgs of entire ", "Reduced load times by 50%"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "VCP",
+      "organisation": "ACM",
+      "startDate": "Aug, 2023",
+      "endDate": "Sep, 2024",
+      "experiences": ["Worked on co ordinating with the team", "Manage the task"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Intern as Data Science",
+      "organisation": "ASD",
+      "startDate": "June, 2024",
+      "endDate": "July, 2024",
+      "experiences": [
+        "Worked on component library",
+        "Machine learning using Python"
+      ],
+      "imageSrc": "cursorIcon.png"
+    }
+  ]
