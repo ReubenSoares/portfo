@@ -12,6 +12,13 @@
   "clean": "rm -rf dist"
 
 },
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build step needed'"
+  }
+},
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
