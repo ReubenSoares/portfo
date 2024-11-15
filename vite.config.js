@@ -9,4 +9,5 @@ export default defineConfig({
       localsConvention: "camelCase",
     },
   },
+  base: './', // Set the base path for deployment
 });
